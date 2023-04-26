@@ -1,0 +1,257 @@
+Added Component: Designator=C1(0805_CAP)
+Added Component: Designator=C2(0805_CAP)
+Added Component: Designator=C3(0805_CAP)
+Added Component: Designator=C4(0805_CAP)
+Added Component: Designator=C5(0805_CAP)
+Added Component: Designator=C6(0805_CAP)
+Added Component: Designator=C7(0805_CAP)
+Added Component: Designator=C8(0805_CAP)
+Added Component: Designator=C9(0805_CAP)
+Added Component: Designator=C10(0805_CAP)
+Added Component: Designator=C11(0805_CAP)
+Added Component: Designator=C12(0805_CAP)
+Added Component: Designator=C13(0805_CAP)
+Added Component: Designator=C14(0805_CAP)
+Added Component: Designator=C15(0805_CAP)
+Added Component: Designator=C16(0805_CAP)
+Added Component: Designator=C17(0805_CAP)
+Added Component: Designator=C18(0805_CAP)
+Added Component: Designator=C19(0805_CAP)
+Added Component: Designator=C20(0805_CAP)
+Added Component: Designator=C21(0805_CAP)
+Added Component: Designator=D1(ES1006FL)
+Added Component: Designator=D2(ES1006FL)
+Added Component: Designator=D3(led)
+Added Component: Designator=D4(led)
+Added Component: Designator=D5(led)
+Added Component: Designator=D6(led)
+Added Component: Designator=J1(USB A)
+Added Component: Designator=P1(4'lu headers)
+Added Component: Designator=P2(3'lu headers)
+Added Component: Designator=R1(res_0805)
+Added Component: Designator=R2(res_0805)
+Added Component: Designator=R3(res_0805)
+Added Component: Designator=R4(res_0805)
+Added Component: Designator=R5(res_0805)
+Added Component: Designator=R6(res_0805)
+Added Component: Designator=R7(res_0805)
+Added Component: Designator=R8(res_0805)
+Added Component: Designator=R9(res_0805)
+Added Component: Designator=R10(res_0805)
+Added Component: Designator=R11(res_0805)
+Added Component: Designator=R12(res_0805)
+Added Component: Designator=R13(res_0805)
+Added Component: Designator=R14(res_0805)
+Added Component: Designator=R15(res_0805)
+Added Component: Designator=U1(STM32F103C6T8)
+Added Component: Designator=U2(SOIC-8)
+Added Component: Designator=U3(ams1117)
+Added Component: Designator=U4(CH340 SOIC16)
+Added Component: Designator=X1(8mhz_kristal)
+Added Component: Designator=X2(8mhz_kristal)
+Added Pin To Net: NetName=RST Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3.3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3.3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3.3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3.3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=OSC_IN Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=OSC_OUT Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3.3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3.3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+3.3 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3.3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3.3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+3.3 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+5 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+5 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=XO Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=XI Pin=C21-2
+Added Pin To Net: NetName=+5 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=TX Pin=D4-2
+Added Pin To Net: NetName=RX Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=D- Pin=J1-2
+Added Pin To Net: NetName=D+ Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=SWDIO Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=SWCLK Pin=P1-3
+Added Pin To Net: NetName=+3.3 Pin=P1-4
+Added Pin To Net: NetName=CANH Pin=P2-1
+Added Pin To Net: NetName=CANL Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=OSC_OUT Pin=R1-1
+Added Pin To Net: NetName=OSC_IN Pin=R1-2
+Added Pin To Net: NetName=BOOT0 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=+3.3 Pin=R3-1
+Added Pin To Net: NetName=RST Pin=R3-2
+Added Pin To Net: NetName=BOOT1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=+5 Pin=R6-2
+Added Pin To Net: NetName=CANL Pin=R7-1
+Added Pin To Net: NetName=CANH Pin=R7-2
+Added Pin To Net: NetName=+3.3 Pin=R8-2
+Added Pin To Net: NetName=LED Pin=R9-2
+Added Pin To Net: NetName=+3.3 Pin=R10-1
+Added Pin To Net: NetName=RST Pin=R14-2
+Added Pin To Net: NetName=XI Pin=R15-1
+Added Pin To Net: NetName=XO Pin=R15-2
+Added Pin To Net: NetName=LED Pin=U1-2
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=RST Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+3.3 Pin=U1-9
+Added Pin To Net: NetName=BOOT1 Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=+3.3 Pin=U1-24
+Added Pin To Net: NetName=TX Pin=U1-30
+Added Pin To Net: NetName=RX Pin=U1-31
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=+3.3 Pin=U1-36
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=BOOT0 Pin=U1-44
+Added Pin To Net: NetName=CANRX Pin=U1-45
+Added Pin To Net: NetName=CANTX Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=+3.3 Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=CANTX Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=CANRX Pin=U2-4
+Added Pin To Net: NetName=CANL Pin=U2-6
+Added Pin To Net: NetName=CANH Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=+3.3 Pin=U3-2
+Added Pin To Net: NetName=+5 Pin=U3-3
+Added Pin To Net: NetName=+3.3 Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=RX Pin=U4-2
+Added Pin To Net: NetName=TX Pin=U4-3
+Added Pin To Net: NetName=D+ Pin=U4-5
+Added Pin To Net: NetName=D- Pin=U4-6
+Added Pin To Net: NetName=XI Pin=U4-7
+Added Pin To Net: NetName=XO Pin=U4-8
+Added Pin To Net: NetName=OSC_OUT Pin=X1-1
+Added Pin To Net: NetName=OSC_IN Pin=X1-2
+Added Pin To Net: NetName=XI Pin=X2-1
+Added Pin To Net: NetName=XO Pin=X2-2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R6-1
+Added Pin To Net: NetName=NetC13_2 Pin=R8-1
+Added Pin To Net: NetName=NetC13_2 Pin=U2-3
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=D2-1
+Added Pin To Net: NetName=NetC17_2 Pin=R11-1
+Added Pin To Net: NetName=NetC17_2 Pin=R12-1
+Added Pin To Net: NetName=NetC17_2 Pin=R13-1
+Added Pin To Net: NetName=NetC17_2 Pin=U4-16
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R10-2
+Added Pin To Net: NetName=NetC18_2 Pin=U4-4
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=R14-1
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U4-13
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R9-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R11-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R12-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R13-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U2-8
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=MCU_CH340 Member=Component C1 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C2 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C3 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C4 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C5 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C6 22pF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C7 22pF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C8 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C9 10uF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C10 10uF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C11 10uF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C12 10uF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C13 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C14 22uF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C15 10uF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C16 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C17 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C18 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C19 100nF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C20 22pF
+Added Member To Class: ClassName=MCU_CH340 Member=Component C21 22pF
+Added Member To Class: ClassName=MCU_CH340 Member=Component D1 ES1006FL
+Added Member To Class: ClassName=MCU_CH340 Member=Component D2 ES1006FL
+Added Member To Class: ClassName=MCU_CH340 Member=Component D3 led_mavi
+Added Member To Class: ClassName=MCU_CH340 Member=Component D4
+Added Member To Class: ClassName=MCU_CH340 Member=Component D5
+Added Member To Class: ClassName=MCU_CH340 Member=Component D6 led_mavi
+Added Member To Class: ClassName=MCU_CH340 Member=Component J1 USB A
+Added Member To Class: ClassName=MCU_CH340 Member=Component P1 4'lu headers
+Added Member To Class: ClassName=MCU_CH340 Member=Component P2 3'lu headers
+Added Member To Class: ClassName=MCU_CH340 Member=Component R1 1M
+Added Member To Class: ClassName=MCU_CH340 Member=Component R2 10K
+Added Member To Class: ClassName=MCU_CH340 Member=Component R3 10K
+Added Member To Class: ClassName=MCU_CH340 Member=Component R4 10K
+Added Member To Class: ClassName=MCU_CH340 Member=Component R5 1K
+Added Member To Class: ClassName=MCU_CH340 Member=Component R6 0
+Added Member To Class: ClassName=MCU_CH340 Member=Component R7 120
+Added Member To Class: ClassName=MCU_CH340 Member=Component R8 0
+Added Member To Class: ClassName=MCU_CH340 Member=Component R9 10K
+Added Member To Class: ClassName=MCU_CH340 Member=Component R10 0
+Added Member To Class: ClassName=MCU_CH340 Member=Component R11 1K
+Added Member To Class: ClassName=MCU_CH340 Member=Component R12 1K
+Added Member To Class: ClassName=MCU_CH340 Member=Component R13 1K
+Added Member To Class: ClassName=MCU_CH340 Member=Component R14 0
+Added Member To Class: ClassName=MCU_CH340 Member=Component R15 1M
+Added Member To Class: ClassName=MCU_CH340 Member=Component U1 stm32f103
+Added Member To Class: ClassName=MCU_CH340 Member=Component U2 MCP2551
+Added Member To Class: ClassName=MCU_CH340 Member=Component U3 ams1117_3.3v
+Added Member To Class: ClassName=MCU_CH340 Member=Component U4 ch340
+Added Member To Class: ClassName=MCU_CH340 Member=Component X1 8Mhz_kristal
+Added Member To Class: ClassName=MCU_CH340 Member=Component X2 8Mhz_kristal
+Added Room: Name=MCU_CH340
